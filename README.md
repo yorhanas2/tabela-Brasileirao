@@ -1,2 +1,2 @@
-# tabela-Brasileirao
-trabalho extra da matéria de Desenvolvimento Web, para clonar a tabela do brasileirão.
+# tabelaBrasileirao
+Atividade extra para clonar a tabela do brasileirao com html e css
